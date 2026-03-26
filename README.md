@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/I-paul/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/I-paul/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/I-paul/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/I-paul/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/I-paul/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -103,5 +104,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/I-paul/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/I-paul/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/I-paul/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
