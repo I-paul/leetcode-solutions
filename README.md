@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/I-paul/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/I-paul/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0500-keyboard-row](https://github.com/I-paul/leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0704-binary-search](https://github.com/I-paul/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/I-paul/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/I-paul/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/I-paul/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/I-paul/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/I-paul/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/I-paul/leetcode-solutions/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/I-paul/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/I-paul/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/I-paul/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Dynamic Programming
