@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/I-paul/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/I-paul/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/I-paul/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/I-paul/leetcode-solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/I-paul/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/I-paul/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/I-paul/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/I-paul/leetcode-solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/I-paul/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/I-paul/leetcode-solutions/tree/master/0268-missing-number) |
 ## Tree
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/I-paul/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/I-paul/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/I-paul/leetcode-solutions/tree/master/0078-subsets) |
 ## Divide and Conquer
 |  |
 | ------- |
