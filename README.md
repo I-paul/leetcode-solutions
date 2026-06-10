@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/I-paul/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/I-paul/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/I-paul/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0994-rotting-oranges](https://github.com/I-paul/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1480-running-sum-of-1d-array](https://github.com/I-paul/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/I-paul/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/I-paul/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/I-paul/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/I-paul/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/I-paul/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/I-paul/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/I-paul/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/I-paul/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Backtracking
 |  |
 | ------- |
