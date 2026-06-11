@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/I-paul/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/I-paul/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/I-paul/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/I-paul/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/I-paul/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/I-paul/leetcode-solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/I-paul/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/I-paul/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/I-paul/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/I-paul/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/I-paul/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/I-paul/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/I-paul/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/I-paul/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/I-paul/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/I-paul/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/I-paul/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/I-paul/leetcode-solutions/tree/master/0118-pascals-triangle) |
 ## String Matching
 |  |
