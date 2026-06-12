@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/I-paul/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/I-paul/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/I-paul/leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0516-longest-palindromic-subsequence](https://github.com/I-paul/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/I-paul/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Linked List
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/I-paul/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/I-paul/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/I-paul/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0516-longest-palindromic-subsequence](https://github.com/I-paul/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/I-paul/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## String Matching
 |  |
