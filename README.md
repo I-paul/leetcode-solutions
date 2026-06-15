@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/I-paul/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/I-paul/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/I-paul/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0773-sliding-puzzle](https://github.com/I-paul/leetcode-solutions/tree/master/0773-sliding-puzzle) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/I-paul/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/I-paul/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1480-running-sum-of-1d-array](https://github.com/I-paul/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/I-paul/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/I-paul/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/I-paul/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0773-sliding-puzzle](https://github.com/I-paul/leetcode-solutions/tree/master/0773-sliding-puzzle) |
 | [0994-rotting-oranges](https://github.com/I-paul/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Simulation
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/I-paul/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0279-perfect-squares](https://github.com/I-paul/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0516-longest-palindromic-subsequence](https://github.com/I-paul/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0773-sliding-puzzle](https://github.com/I-paul/leetcode-solutions/tree/master/0773-sliding-puzzle) |
 | [1143-longest-common-subsequence](https://github.com/I-paul/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## String Matching
 |  |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/I-paul/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/I-paul/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/I-paul/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0773-sliding-puzzle](https://github.com/I-paul/leetcode-solutions/tree/master/0773-sliding-puzzle) |
 | [0994-rotting-oranges](https://github.com/I-paul/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Backtracking
 |  |
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/I-paul/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/I-paul/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/I-paul/leetcode-solutions/tree/master/0078-subsets) |
+| [0773-sliding-puzzle](https://github.com/I-paul/leetcode-solutions/tree/master/0773-sliding-puzzle) |
 | [1240-tiling-a-rectangle-with-the-fewest-squares](https://github.com/I-paul/leetcode-solutions/tree/master/1240-tiling-a-rectangle-with-the-fewest-squares) |
 ## Divide and Conquer
 |  |
@@ -286,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/I-paul/leetcode-solutions/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/I-paul/leetcode-solutions/tree/master/0773-sliding-puzzle) |
 <!---LeetCode Topics End-->
