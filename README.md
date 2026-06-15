@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/I-paul/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/I-paul/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/I-paul/leetcode-solutions/tree/master/0078-subsets) |
+| [1240-tiling-a-rectangle-with-the-fewest-squares](https://github.com/I-paul/leetcode-solutions/tree/master/1240-tiling-a-rectangle-with-the-fewest-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
