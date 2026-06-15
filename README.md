@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/I-paul/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/I-paul/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/I-paul/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/I-paul/leetcode-solutions/tree/master/0743-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/I-paul/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/I-paul/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/I-paul/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0743-network-delay-time](https://github.com/I-paul/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0773-sliding-puzzle](https://github.com/I-paul/leetcode-solutions/tree/master/0773-sliding-puzzle) |
 | [0994-rotting-oranges](https://github.com/I-paul/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Backtracking
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/I-paul/leetcode-solutions/tree/master/0218-the-skyline-problem) |
+| [0743-network-delay-time](https://github.com/I-paul/leetcode-solutions/tree/master/0743-network-delay-time) |
 ## Ordered Set
 |  |
 | ------- |
@@ -299,4 +302,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0773-sliding-puzzle](https://github.com/I-paul/leetcode-solutions/tree/master/0773-sliding-puzzle) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/I-paul/leetcode-solutions/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/I-paul/leetcode-solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
