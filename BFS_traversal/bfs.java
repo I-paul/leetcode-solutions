@@ -32,5 +32,6 @@ public class bfs {
             adjList.get(des).add(src);
         }
         traverse(adjList, v,0, new boolean[v]);
+        sc.close();
     }
 }

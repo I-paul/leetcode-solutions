@@ -35,5 +35,6 @@ class Solution {
         for (int op : operations) {
             System.out.println(op);
         }
+        scanner.close();
     }
 }
