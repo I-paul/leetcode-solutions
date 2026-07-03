@@ -15,21 +15,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/I-paul/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/I-paul/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/I-paul/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/I-paul/leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/I-paul/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/I-paul/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/I-paul/leetcode-solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/I-paul/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/I-paul/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0130-surrounded-regions](https://github.com/I-paul/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/I-paul/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/I-paul/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/I-paul/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/I-paul/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/I-paul/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [0238-product-of-array-except-self](https://github.com/I-paul/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/I-paul/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/I-paul/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/I-paul/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0500-keyboard-row](https://github.com/I-paul/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0704-binary-search](https://github.com/I-paul/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/I-paul/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/I-paul/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0773-sliding-puzzle](https://github.com/I-paul/leetcode-solutions/tree/master/0773-sliding-puzzle) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/I-paul/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0994-rotting-oranges](https://github.com/I-paul/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1480-running-sum-of-1d-array](https://github.com/I-paul/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -45,8 +53,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/I-paul/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/I-paul/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/I-paul/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/I-paul/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/I-paul/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/I-paul/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/I-paul/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/I-paul/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -58,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/I-paul/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [0242-valid-anagram](https://github.com/I-paul/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/I-paul/leetcode-solutions/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/I-paul/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/I-paul/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/I-paul/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/I-paul/leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0516-longest-palindromic-subsequence](https://github.com/I-paul/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [1143-longest-common-subsequence](https://github.com/I-paul/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Linked List
 |  |
 | ------- |
@@ -120,11 +133,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/I-paul/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/I-paul/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/I-paul/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/I-paul/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/I-paul/leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/I-paul/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0130-surrounded-regions](https://github.com/I-paul/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/I-paul/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0773-sliding-puzzle](https://github.com/I-paul/leetcode-solutions/tree/master/0773-sliding-puzzle) |
+| [0994-rotting-oranges](https://github.com/I-paul/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
@@ -148,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/I-paul/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/I-paul/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/I-paul/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/I-paul/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/I-paul/leetcode-solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/I-paul/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/I-paul/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -157,7 +178,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/I-paul/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/I-paul/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/I-paul/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/I-paul/leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/I-paul/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/I-paul/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/I-paul/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0279-perfect-squares](https://github.com/I-paul/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0516-longest-palindromic-subsequence](https://github.com/I-paul/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0773-sliding-puzzle](https://github.com/I-paul/leetcode-solutions/tree/master/0773-sliding-puzzle) |
+| [1143-longest-common-subsequence](https://github.com/I-paul/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -165,9 +194,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/I-paul/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/I-paul/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/I-paul/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/I-paul/leetcode-solutions/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/I-paul/leetcode-solutions/tree/master/0279-perfect-squares) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -178,39 +209,57 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/I-paul/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/I-paul/leetcode-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/I-paul/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/I-paul/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/I-paul/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/I-paul/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/I-paul/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/I-paul/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/I-paul/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/I-paul/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/I-paul/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/I-paul/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/I-paul/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/I-paul/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/I-paul/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/I-paul/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/I-paul/leetcode-solutions/tree/master/0743-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/I-paul/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/I-paul/leetcode-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/I-paul/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/I-paul/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/I-paul/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/I-paul/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/I-paul/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/I-paul/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/I-paul/leetcode-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/I-paul/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/I-paul/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/I-paul/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/I-paul/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/I-paul/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/I-paul/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0743-network-delay-time](https://github.com/I-paul/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0773-sliding-puzzle](https://github.com/I-paul/leetcode-solutions/tree/master/0773-sliding-puzzle) |
+| [0994-rotting-oranges](https://github.com/I-paul/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/I-paul/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/I-paul/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/I-paul/leetcode-solutions/tree/master/0078-subsets) |
+| [0773-sliding-puzzle](https://github.com/I-paul/leetcode-solutions/tree/master/0773-sliding-puzzle) |
+| [1240-tiling-a-rectangle-with-the-fewest-squares](https://github.com/I-paul/leetcode-solutions/tree/master/1240-tiling-a-rectangle-with-the-fewest-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -231,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/I-paul/leetcode-solutions/tree/master/0218-the-skyline-problem) |
+| [0743-network-delay-time](https://github.com/I-paul/leetcode-solutions/tree/master/0743-network-delay-time) |
 ## Ordered Set
 |  |
 | ------- |
@@ -239,4 +289,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/I-paul/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/I-paul/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/I-paul/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/I-paul/leetcode-solutions/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/I-paul/leetcode-solutions/tree/master/0773-sliding-puzzle) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/I-paul/leetcode-solutions/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/I-paul/leetcode-solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
